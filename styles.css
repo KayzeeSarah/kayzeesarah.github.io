@@ -334,7 +334,7 @@ a {
 /* FOOTER */
 
  footer {
-  position: relative;
+  position: absolute;
   bottom: -12px;
   width: 100%;
   background-color: #BF9169;
