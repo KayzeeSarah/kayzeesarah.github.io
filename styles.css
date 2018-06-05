@@ -331,23 +331,6 @@ a {
   flex-direction: column;
 }
 
-/* FOOTER */
-
- footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  background-color: #BF9169;
-  font-family: 'Prosto One', cursive;
-  color: white;
-  margin:0;
-}
-
-.copyright {
-  margin: 0;
-  padding: 10px;
-}
-
 
 @media (min-width: 768px) {
   .card-wrap {
