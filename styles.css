@@ -334,6 +334,8 @@ a {
 /* FOOTER */
 
  footer {
+  position: absolute;
+  bottom: 0;
   width: 100%;
   background-color: #BF9169;
   font-family: 'Prosto One', cursive;
